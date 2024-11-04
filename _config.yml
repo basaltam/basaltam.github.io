@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Basalt Am"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Django**, **Spring Framework**, **Spring Boot**, **React.js**."
+  bio              : "**Django**, **Spring Framework**, **Spring Boot**, **React.js**"
   location         : "Jeju Island South Korea"
   email            : "basaltthedev@gmail.com"
   links:
